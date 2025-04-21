@@ -26,5 +26,5 @@ Environment: Console (CLI)
 
 <h2>📄 License</h2>
 
-This project is licensed under the MIT License.
+This project is licensed under the UA Tech.
 
